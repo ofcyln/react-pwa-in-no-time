@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <div>
         <a href="#">
-          <img src="/public/assets/logo/logo.svg" className="logo" alt="Logo" />
+          <img src="logo.svg" className="logo" alt="Logo" />
         </a>
       </div>
 
